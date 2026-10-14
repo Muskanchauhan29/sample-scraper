@@ -1,0 +1,7 @@
+DATA QUALITY REPORT
+rows_scraped: 100
+duplicates_removed: 0
+invalid_rows_dropped: 0
+rows_final: 100
+avg_price_gbp: 34.56
+avg_rating: 2.93
